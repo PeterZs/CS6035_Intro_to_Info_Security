@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr" class="client-nojs">
+<head>
+<meta charset="UTF-8" />
+<title>Data Encryption Standard - Wikipedia, the free encyclopedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>window.RLQ = window.RLQ || []; window.RLQ.push( function () {
+mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Data_Encryption_Standard","wgTitle":"Data Encryption Standard","wgCurRevisionId":692163412,"wgRevisionId":692163412,"wgArticleId":7978,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Block ciphers","Articles needing additional references from August 2009","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from August 2010","Articles with unsourced statements from October 2014","Articles with unsourced statements from October 2015","Articles needing additional references from November 2009","Commons category with local link same as on Wikidata","Broken block ciphers","Data Encryption Standard"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Data_Encryption_Standard","wgRelevantArticleId":7978,"wgIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wikilove-recipient":"","wikilove-anon":0,"wgWikiEditorEnabledModules":{"toolbar":true,"dialogs":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","usePageImages":true,"usePageDescriptions":true},"wgGatherShouldShowTutorial":true,"wgGatherEnableSample":0,"wgGatherPageImageThumbnail":"//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/98px-Data_Encription_Standard_Flow_Diagram.svg.png","wgULSAcceptLanguageList":["en-us","en"],"wgULSCurrentAutonym":"English","wgFlaggedRevsParams":{"tags":{"status":{"levels":1,"quality":2,"pristine":3}}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgNoticeProject":"wikipedia","wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q135035","wgVisualEditorToolbarScrollOffset":0}); /* @nomin */mw.loader.implement("user.options",function($,jQuery){mw.user.options.set({"variant":"en"});});mw.loader.implement("user.tokens",function ( $, jQuery ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\"}); /* @nomin */ ;
+
+});mw.loader.load(["mediawiki.page.startup","mediawiki.legacy.wikibits","ext.centralauth.centralautologin","ext.gadget.WatchlistBase","ext.gadget.WatchlistGreenIndicators","mmv.head","ext.visualEditor.desktopArticleTarget.init","ext.uls.init","ext.uls.interface","ext.quicksurveys.init","ext.centralNotice.bannerController","skins.vector.js"]);
+} );</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.gadget.DRN-wizard%2CReferenceTooltips%2CWatchlistBase%2CWatchlistGreenIndicators%2Ccharinsert%2Cfeatured-articles-links%2CrefToolbar%2Cswitcher%2Cteahouse%7Cext.math.styles%7Cext.uls.nojs%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.raggett%2CsectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" />
+<meta name="ResourceLoaderDynamicStyles" content="" />
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site&amp;only=styles&amp;skin=vector" />
+<style>a:lang(ar),a:lang(kk-arab),a:lang(mzn),a:lang(ps),a:lang(ur){text-decoration:none}</style>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="generator" content="MediaWiki 1.27.0-wmf.7" />
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Data_Encryption_Standard" />
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Data_Encryption_Standard&amp;action=edit" />
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Data_Encryption_Standard&amp;action=edit" />
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png" />
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico" />
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)" />
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd" />
+<link rel="copyright" href="//creativecommons.org/licenses/by-sa/3.0/" />
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom" />
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Data_Encryption_Standard" />
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 7]><style type="text/css">body{behavior:url("/w/static/1.27.0-wmf.7/skins/Vector/csshover.min.htc")}</style><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr ns-0 ns-subject page-Data_Encryption_Standard skin-vector action-view">
+		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+
+							<div id="siteNotice"><!-- CentralNotice --></div>
+						<div class="mw-indicators">
+</div>
+			<h1 id="firstHeading" class="firstHeading" lang="en">Data Encryption Standard</h1>
+									<div id="bodyContent" class="mw-body-content">
+									<div id="siteSub">From Wikipedia, the free encyclopedia</div>
+								<div id="contentSub"></div>
+												<div id="jump-to-nav" class="mw-jump">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+				</div>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><table class="infobox" style="width:22em">
+<caption>Data Encryption Standard</caption>
+<tr>
+<td colspan="2" style="text-align:center">
+<div class="center">
+<div class="floatnone"><a href="/wiki/File:Data_Encription_Standard_Flow_Diagram.svg" class="image"><img alt="Data Encription Standard Flow Diagram.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/300px-Data_Encription_Standard_Flow_Diagram.svg.png" width="300" height="306" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/450px-Data_Encription_Standard_Flow_Diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/25/Data_Encription_Standard_Flow_Diagram.svg/600px-Data_Encription_Standard_Flow_Diagram.svg.png 2x" data-file-width="375" data-file-height="382" /></a></div>
+</div>
+<div>The Feistel function (F function) of DES</div>
+</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">General</th>
+</tr>
+<tr>
+<th scope="row">Designers</th>
+<td><a href="/wiki/IBM" title="IBM">IBM</a></td>
+</tr>
+<tr>
+<th scope="row">First published</th>
+<td>1975 (Federal Register) (standardized in January 1979)</td>
+</tr>
+<tr>
+<th scope="row">Derived from</th>
+<td><a href="/wiki/Lucifer_(cipher)" title="Lucifer (cipher)">Lucifer</a></td>
+</tr>
+<tr>
+<th scope="row">Successors</th>
+<td><a href="/wiki/Triple_DES" title="Triple DES">Triple DES</a>, <a href="/wiki/G-DES" title="G-DES" class="mw-redirect">G-DES</a>, <a href="/wiki/DES-X" title="DES-X">DES-X</a>, <a href="/wiki/LOKI89" title="LOKI89" class="mw-redirect">LOKI89</a>, <a href="/wiki/ICE_(cipher)" title="ICE (cipher)">ICE</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Cipher detail</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Key_size" title="Key size">Key sizes</a></th>
+<td>56 bits (+8 parity bits)</td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Block_size_(cryptography)" title="Block size (cryptography)">Block sizes</a></th>
+<td>64 bits</td>
+</tr>
+<tr>
+<th scope="row">Structure</th>
+<td>Balanced <a href="/wiki/Feistel_network" title="Feistel network" class="mw-redirect">Feistel network</a></td>
+</tr>
+<tr>
+<th scope="row">Rounds</th>
+<td>16</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Best public <a href="/wiki/Cryptanalysis" title="Cryptanalysis">cryptanalysis</a></th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;line-height: 1.25em; text-align: left">DES is now considered insecure because a <a href="/wiki/Brute_force_attack" title="Brute force attack" class="mw-redirect">brute force attack</a> is possible (see <a href="/wiki/EFF_DES_cracker" title="EFF DES cracker">EFF DES cracker</a>). As of 2008, the best analytical attack is <a href="/wiki/Linear_cryptanalysis" title="Linear cryptanalysis">linear cryptanalysis</a>, which requires 2<sup>43</sup> <a href="/wiki/Known_plaintext" title="Known plaintext" class="mw-redirect">known plaintexts</a> and has a time complexity of 2<sup>39–43</sup> (Junod, 2001).</td>
+</tr>

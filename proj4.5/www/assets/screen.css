@@ -1,0 +1,25 @@
+body {
+	background: #323232;
+}
+.header img {
+	float: left;
+	width: auto;
+}
+.header {
+	background: #fff;
+	text-align: right;
+	border-bottom: 1px solid #ddd;
+}
+.header * {
+	padding-right: 20px;
+}
+.header h1 {
+	padding-top: 30px;
+}
+.header img {
+	padding: 20px;
+}
+.main {
+	background: #fff;
+	padding-top: 20px;
+}

