@@ -9,7 +9,7 @@ For Non-GATECH students, you can access the lectures from Udacity.
 
 #Course projects
 
-All projects descripions can be found in project folders.
+All projects descriptions can be found in project folders.
 
 Project 1 Exploit buffer overflow. Hack a simple sort C program and inject malicious code to cause buffer overflow and get root authority.
 
